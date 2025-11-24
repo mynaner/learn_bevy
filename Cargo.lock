@@ -1741,7 +1741,9 @@ dependencies = [
  "bevy",
  "bevy-inspector-egui",
  "bevy_egui 0.38.0",
+ "bytemuck",
  "rand",
+ "rand_chacha",
  "thiserror 2.0.17",
 ]
 

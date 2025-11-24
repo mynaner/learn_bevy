@@ -6,7 +6,7 @@
 //！ - 您可以绕过查询元组中 15 个组件的限制。//!
 
 use bevy::{
-    ecs::query::{self, QueryData, QueryFilter},
+    ecs::query::{QueryData, QueryFilter},
     prelude::*,
 };
 use std::fmt::Debug;
