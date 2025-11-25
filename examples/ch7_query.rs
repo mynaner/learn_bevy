@@ -10,7 +10,7 @@
 //! Query 用法 QueryData 与QueryFilter
 //! Query 的延伸用法 Single 和 Populated 和 Option<Single>
 
-use bevy::{ecs::query, prelude::*};
+use bevy::prelude::*;
 use thiserror::Error;
 
 #[derive(Debug, Error)]
