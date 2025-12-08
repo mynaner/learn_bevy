@@ -1,9 +1,3 @@
-<!--
- * @Date: 2025-11-14 09:29:11
- * @LastEditors: myclooe 994386508@qq.com
- * @LastEditTime: 2025-11-25 09:12:49
- * @FilePath: /blibli_bevy2/README.md
--->
 # 学习bevy 笔记
 
 
