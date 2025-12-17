@@ -1,7 +1,7 @@
 /*
  * @Date: 2025-11-17 15:59:29
  * @LastEditors: myclooe 994386508@qq.com
- * @LastEditTime: 2025-11-17 18:08:33
+ * @LastEditTime: 2025-12-15 10:07:57
  * @FilePath: /blibli_bevy2/examples/ch12_one_shot_systems.rs
  */
 use bevy::{
@@ -9,7 +9,6 @@ use bevy::{
     ecs::system::{RunSystemOnce, SystemId},
     prelude::*,
 };
-use bevy_egui::egui::Key;
 
 #[derive(Debug, Component)]
 struct Callback(SystemId);

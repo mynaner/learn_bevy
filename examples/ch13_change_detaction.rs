@@ -1,7 +1,13 @@
+/*
+ * @Date: 2025-11-17 21:56:18
+ * @LastEditors: myclooe 994386508@qq.com
+ * @LastEditTime: 2025-12-15 10:07:54
+ * @FilePath: /blibli_bevy2/examples/ch13_change_detaction.rs
+ */
 //! 被动检测component 与 resource 的变更
 //!
 //!
-use bevy::{ecs::query, prelude::*};
+use bevy::prelude::*;
 use rand::Rng;
 
 #[derive(Debug, Component, PartialEq)]
